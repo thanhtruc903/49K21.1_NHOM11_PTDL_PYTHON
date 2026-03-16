@@ -1,0 +1,9 @@
+##Các thư viện cần cài đặt 
+pandas
+numpy
+matplotlib
+statsmodels
+prophet
+causalimpact
+tensorflow
+scikit-learn
